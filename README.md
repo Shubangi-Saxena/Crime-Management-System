@@ -1,10 +1,9 @@
 # Crime-Management-System
 
-Team members:
-
-Shreya Varma: PES1UG20CS403
-Shria Guntunur: PES1UG20CS411
-Shruthi Pai: PES1UG20CS416
+Team members:  
+Shreya Varma: PES1UG20CS403  
+Shria Guntunur: PES1UG20CS411  
+Shruthi Pai: PES1UG20CS416  
 Shubangi Saxena: PES1UG20CS418
 
 Section: 'G'
